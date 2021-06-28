@@ -1,7 +1,12 @@
-body{
-    color: red;
-    background-color: yellow;
+body {
+  color: red;
+  background-color: yellow;
 }
+<<<<<<< HEAD
 #a{
     color: green;
+=======
+#a {
+  color: green;
+>>>>>>> 88b0c13 (Day 4)
 }
