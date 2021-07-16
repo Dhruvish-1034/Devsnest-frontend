@@ -16,7 +16,7 @@ class LikeButton extends React.Component {
     return create_ele(
       "button", //  the element we want to render
       { onClick: () => this.setState({ liked: true }) }, // the function or event
-      "Vansh" // the inner text
+      "Dhruvish" // the inner text
     );
   }
 }
